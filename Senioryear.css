@@ -1,0 +1,19 @@
+body {
+  background-image: url(https://tse4.mm.bing.net/th/id/OIP.MKmmX_U166_LJvbxaPIOlQHaE7?w=263&h=180&c=7&r=0&o=5&pid=1.7);
+}
+
+h1, p {
+  text-align: center;
+}
+
+.menu {
+  width: 50%;
+  background-color: beige;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img { 
+  display: block;
+  margin: auto;
+}
